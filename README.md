@@ -10,7 +10,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Funnel+Display&weight=600&size=30&duration=3000&pause=500&color=C778DD&center=false&vCenter=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+M8DrivenDev;Software+Engineer+%F0%9F%A7%A0;Full+stack+web+developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Funnel+Display&weight=600&size=30&duration=3000&pause=500&color=C778DD&center=false&vCenter=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+M8DrivenDev;Software+Engineer+%F0%9F%A7%A0;Full+Stack+Web+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 
