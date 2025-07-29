@@ -10,7 +10,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Funnel+Display&weight=600&size=30&duration=3000&pause=500&color=C778DD&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+M8DrivenDev;Software+Engineer+%F0%9F%A7%A0;Full+stack+web+developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Funnel+Display&weight=600&size=30&duration=3000&pause=500&color=C778DD&center=false&vCenter=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+M8DrivenDev;Software+Engineer+%F0%9F%A7%A0;Full+stack+web+developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 
@@ -40,43 +40,6 @@
 <a href="mailto:m8.driven.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/m8drivendev/m8drivendev/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://www.instagram.com/m8drivendev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/m8drivendev/m8drivendev/master/assets/instagram.svg" alt="Instagram" height="30" width="30" /></a>
 
-
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
-
-
-
-<!-- Belarus - My Home-->
-  
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [32.6,52.6]
-         ]
-       ]
-     }
-   }
- ]
-}
-
-```
 
 
 
